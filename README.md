@@ -22,4 +22,4 @@
 
 [![Amin's GitHub stats](https://github-readme-stats.vercel.app/api/?username=maamjadi&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/maamjadi?tab=stars)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maamjadi&layout=compact&theme=dark)](https://github.com/maamjadi?tab=repositories&q=&type=&language=&sort=stargazers)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maamjadi&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/maamjadi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maamjadi&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/maamjadi/github-readme-stats)
